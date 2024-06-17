@@ -1,1 +1,2 @@
-# XR-DEIA
+# Project Overview 
+The XR DEIA project is a collection of sources, driven by XRA, to provide a central place for developers to find solutions for creating projects that represent and are accessible for all people. We were inspired by developers and XR programs to ensure that projects created for this technology reflect authentic depictions of diverse communities including people of different races and abilities. Please browse the links below. 
