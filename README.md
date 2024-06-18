@@ -26,6 +26,13 @@ The XRAccessibility Project is open source. If you know of resources that other 
 
 # General Resources
 
+<br />
+
+<a href="https://xra.org/research/xr-primer-2-0-a-starter-guide-for-developers/"> <img src="https://i.imgur.com/ah6Zhbp.jpg" width=240 align="left" alt="XR Association Developers Guide"></a>[XRA’s Developers Guide, Chapter Two](https://xra.org/research/xr-primer-2-0-a-starter-guide-for-developers/)
+
+Chapter Two is an update to XRA’s Developers Guide, a starter guide for developers designing reality-expanding experiences. This standalone update, “Creating Safe, Inclusive, and Respectful Immersive Experiences,” offers a set of industry-backed best practices for developing inclusive, respectful, and safe spaces for all users. 
+
+<br />
 ---
 
 # Additional DEIA guidelines 
