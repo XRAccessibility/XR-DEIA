@@ -38,11 +38,11 @@ XR Access's report on the value of inclusively designed XR Workplace tools refle
 
 <a href="https://www.peatworks.org/futureofwork/xr/inclusiveworkplacexr/"> <img src="https://" width=240 align="left" alt="Inclusive XR in the Workplace"></a>[Inclusive XR in the Workplace](https://www.peatworks.org/futureofwork/xr/inclusiveworkplacexr/)
 
-This page is about 
+Peat's "Inclusive XR in the Workplace" is a resource that ensures that developers create inclusive XR programs accessible for all people. They provide guidelines for developers to follow, suggestions, and even benefits. 
 
 <a href="https://shop.cta.tech/collections/standards/products/inclusive-audio-visual-based-navigation-systems-iavbns-for-individuals-with-intellectual-and-developmental-disabilities-cta-2076-1?_gl=1*1fhzkg7*_gcl_au*NzQ0ODA2NTExLjE3MTc0MzAzNDE.*_ga*MTY1OTM5Nzc1NC4xNzE3NDMwMzQx*_ga_5P7N8TBME7*MTcxODkxNDQyNi44LjEuMTcxODkxNDU4OC4yLjAuMA..&_ga=2.233895646.1373494073.1718911274-1659397754.1717430341"> <img src="https://" width=240 align="left" alt="Inclusive, Audio & Visual-Based Navigation Systems (IAVBNS) for Individuals with Intellectual and Developmental Disabilities"></a>[Inclusive, Audio & Visual-Based Navigation Systems (IAVBNS) for Individuals with Intellectual and Developmental Disabilities](https://shop.cta.tech/collections/standards/products/inclusive-audio-visual-based-navigation-systems-iavbns-for-individuals-with-intellectual-and-developmental-disabilities-cta-2076-1?_gl=1*1fhzkg7*_gcl_au*NzQ0ODA2NTExLjE3MTc0MzAzNDE.*_ga*MTY1OTM5Nzc1NC4xNzE3NDMwMzQx*_ga_5P7N8TBME7*MTcxODkxNDQyNi44LjEuMTcxODkxNDU4OC4yLjAuMA..&_ga=2.233895646.1373494073.1718911274-1659397754.1717430341)
 
-THis page is about blah 
+This standard provides requirements to help individuals with intellectual and developmental disabilities overcome barriers to further independent travel. 
 
 <br />
 ---
@@ -66,8 +66,8 @@ THis page is about blah
 
 # Developer Communities 
 1. [XR Access](https://xraccess.org/) - A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.  Their Accessible Development of XR (adXR) work stream focuses on making it easier for developers to create accessible XR applications. See their [Slack](https://bit.ly/xraccess-slack) and [Github](https://github.com/XR-Access-Initiative) or [apply for membership](https://bit.ly/xraccess-interest).
-2. [XR Association](https://xra.org/) - 
-3. [XR Inclusion](https://www.xrinclusion.org) - 
+2. [XR Association](https://xra.org/) - XRA promotes the dynamic growth of the XR industry which includes virtual reality, augmented reality, mixed-reality, and future immersive technology. In doing this, they support and provide a community to discuss how to ensure XR programs are inclusive and accessible for all people. Check out our...
+3. [XR Inclusion](https://www.xrinclusion.org) - A community committed to empowering underrepresented groups in the creation of an inclusive and diverse immersive future. This community ensures that programs represent all people. (I'll add more info) 
 
 # FAQ's
 1. 
