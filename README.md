@@ -64,6 +64,8 @@ This standard provides requirements to help individuals with intellectual and de
 | [Windows Mixed Reality](#windows-mixed-reality-toolkit) 	| Microsoft HoloLens<br>Microsoft HoloLens 2<br>Windows Mixed Reality headsets 	|
 <br />
 
+# Organizations and Articles
+
 # Developer Communities 
 1. [XR Access](https://xraccess.org/) - A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.  Their Accessible Development of XR (adXR) work stream focuses on making it easier for developers to create accessible XR applications. See their [Slack](https://bit.ly/xraccess-slack) and [Github](https://github.com/XR-Access-Initiative) or [apply for membership](https://bit.ly/xraccess-interest).
 2. [XR Association](https://xra.org/) - XRA promotes the dynamic growth of the XR industry which includes virtual reality, augmented reality, mixed-reality, and future immersive technology. In doing this, they support and provide a community to discuss how to ensure XR programs are inclusive and accessible for all people. Check out our...
