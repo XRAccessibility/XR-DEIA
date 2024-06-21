@@ -2,7 +2,7 @@
 The XR DEIA project is a collection of sources, driven by XRA, to provide a central place for developers to find solutions for creating projects that represent and are accessible for all people. We were inspired by developers and XR programs to ensure that projects created for this technology reflect authentic depictions of diverse communities and access to the programs inclusive for all people. 
 
 ## Contributions Welcome
-The XRDEIA Project is open source. If you know of resources that other developers could benefit from, please share them!
+The XR-DEIA Project is open source. If you know of resources that other developers could benefit from, please share them!
 > [!NOTE]
 >
 > Submissions should preferably include a video demonstration and/or a text walk-through, so that potential users don't have to deploy a solution to understand what it does.  Suggestions will be reviewed on the basis of clarity, functionality, and usefulness.
@@ -13,15 +13,18 @@ The XRDEIA Project is open source. If you know of resources that other developer
 <br />
 
 ### Table of Contents
-1. General Resources 
+1. [**General Resources**](#general-resources) 
 2. Additional DEIA guidelines 
-4. Platform specific solutions 
-5. Developer Communities
-6. FAQ's
+4. Platform specific solutions
+5. Organizations and Articles
+6. Developer Communities
+7. FAQ's
 
 <br />
 
 ---
+
+<br />
 
 # General Resources
 
@@ -50,8 +53,12 @@ This standard provides requirements to help individuals with intellectual and de
 # Additional DEIA guidelines 
 1. [Inclusive, Immersive Workplace Technologies: Bringing Accessible XR Technologies into Fast-Growing Fields](http://xra.org/wp-content/uploads/2021/10/InclusiveXROnePager_PEATandXRA.pdf) - A reference for creating inclusive environments in XR programs.
 2. [A Practical Guide to Inclusive Research](http://medium.com/inclusive-researchf) - A reference for creating inclusive environments in XR programs.
-3. [XR Ethics and Diversity, Inclusion, and Accessibility](http://standards.ieee.org/wpcontent/uploads/2022/04/Ethics_Diversity_Inclusion_Accessibility.pdf) - A report on how to incorporate diverse and inclusive aspects to XR programs. 
+3. [XR Ethics and Diversity, Inclusion, and Accessibility](http://standards.ieee.org/wpcontent/uploads/2022/04/Ethics_Diversity_Inclusion_Accessibility.pdf) - A report on how to incorporate diverse and inclusive aspects to XR programs.
 
+   # Solutions
+<a href="https://itif.org/publications/2021/06/01/current-and-potential-uses-arvr-equity-and-inclusion/"> <img src="https://" width=240 align="left" alt="Current and Potential Uses for AR/VR for Equity and Inclusion"></a>[ITIF: The Current and Potential Uses of AR/VR for Equity and Inclusion](https://itif.org/publications/2021/06/01/current-and-potential-uses-arvr-equity-and-inclusion/)
+
+blah
  
 | Platform              	| Supported Devices                                                                                              	|
 |-----------------------	|----------------------------------------------------------------------------------------------------------------	|
@@ -65,6 +72,7 @@ This standard provides requirements to help individuals with intellectual and de
 <br />
 
 # Organizations and Articles
+1. [Accessibility Unlocked](https://www.accessunlocked.games/) - An alliance of disabled, neurodiverse, gender diverse, queer and allies working to change the shape of game development in Australia and New Zealand.
 
 # Developer Communities 
 1. [XR Access](https://xraccess.org/) - A community committed to making virtual, augmented, and mixed reality (XR) accessible to people with disabilities.  Their Accessible Development of XR (adXR) work stream focuses on making it easier for developers to create accessible XR applications. See their [Slack](https://bit.ly/xraccess-slack) and [Github](https://github.com/XR-Access-Initiative) or [apply for membership](https://bit.ly/xraccess-interest).
